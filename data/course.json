@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Networks"
+    ]
+  ],
+  "legacy_uid": "d8ae7159-3cd7-d1f1-699b-4cee537f5a30",
+  "instructors": {
+    "content": [
+      "565485f1-23b5-1c62-986f-627da41c64c0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9ffe1cbf-71c0-5c46-cd5f-eed2a13db420",
+    "website": "6-824-distributed-computer-systems-engineering-spring-2006"
+  },
+  "course_title": "Distributed Computer Systems Engineering",
+  "hide_download": true,
+  "course_description": "This course covers abstractions and implementation techniques for the design of distributed systems. Topics include: server design, network programming, naming, storage systems, security, and fault tolerance. The assigned readings for the course are from current literature. This course is worth 6 Engineering Design Points.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.824",
+  "course_image_thumbnail": {
+    "content": "83abd337-b469-b106-f063-412ee0afbdd9",
+    "website": "6-824-distributed-computer-systems-engineering-spring-2006"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "38680ca3-38ac-4d7c-97d9-ea5215065e66",
+  "site_short_id": "6.824-spring-2006",
+  "site_url_path": "courses/6-824-distributed-computer-systems-engineering-spring-2006",
+  "title": "Course Metadata"
+}
