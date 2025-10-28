@@ -5,8 +5,6 @@ description: Lecture notes about coordinating servers in a distributed system, a
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/e84a1d97feaac296a8ce261d591a89ef_lec13_twophase.pdf
 file_size: 21371
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

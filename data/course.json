@@ -28,7 +28,6 @@
     "website": "6-824-distributed-computer-systems-engineering-spring-2006"
   },
   "course_title": "Distributed Computer Systems Engineering",
-  "hide_download": true,
   "course_description": "This course covers abstractions and implementation techniques for the design of distributed systems. Topics include: server design, network programming, naming, storage systems, security, and fault tolerance. The assigned readings for the course are from current literature. This course is worth 6 Engineering Design Points.\n",
   "department_numbers": [
     "6"
@@ -39,7 +38,6 @@
     "content": "83abd337-b469-b106-f063-412ee0afbdd9",
     "website": "6-824-distributed-computer-systems-engineering-spring-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Exams",
     "Lecture Notes"

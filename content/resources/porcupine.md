@@ -6,8 +6,6 @@ description: 'Discussion notes. Saito, Yasushi, Brian N. Bershad, and Henry M. L
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/72875a5da860ba7a618bffcd6a492a00_porcupine.pdf
 file_size: 56809
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

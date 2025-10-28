@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/e5cf4dd0328472b072735dd8ed962783_lab1.tgz
 file_size: 5113
 file_type: application/x-gzip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains provides information about course readings and
   related discussion notes.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

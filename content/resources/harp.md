@@ -6,8 +6,6 @@ description: Discussion notes. Liskov, Barbara, et al. "Replication in the Harp 
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/99b182decb0a55e75570e81d0d9ac858_harp.pdf
 file_size: 72710
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

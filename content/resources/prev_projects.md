@@ -5,8 +5,6 @@ description: A list of final projects from previous years to help students pick 
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/2d17c2069a82c00f08fadde727802bec_prev_projects.pdf
 file_size: 29996
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

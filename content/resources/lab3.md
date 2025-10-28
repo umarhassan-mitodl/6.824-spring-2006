@@ -4,8 +4,6 @@ description: Laboratory assignment on Reading, Writing, and Sharing Files.
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/66657c51906f8ac18d9b7786004253e4_lab3.pdf
 file_size: 34051
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

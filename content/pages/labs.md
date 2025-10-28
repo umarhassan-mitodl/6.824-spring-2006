@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information about the lab assignments, class machines,
   and aids for working in labs.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection
@@ -128,10 +126,10 @@ Mazières, David, Michael Kaminsky, M. Frans Kaashoek, and Emmett Witchel. "Sepa
 
 Mazières, David. "A Toolkit for User-level File Systems." Proceedings of the USENIX Technical Conference (June 2001): 261-274.
 
-*   **FreeBSD Architecture**: You can find a good summary of how FreeBSD works in an appendix to the Operating Systems Concepts book by Silberschatz, Galvin, and Gagne. Click on The FreeBSD System link on the following [Web site](http://codex.cs.yale.edu/avi/os-book/). FreeBSD is the UNIX® variant running on the 6.824 machines.)  
+*   **FreeBSD Architecture**: You can find a good summary of how FreeBSD works in an appendix to the Operating Systems Concepts book by Silberschatz, Galvin, and Gagne. Click on The FreeBSD System link on the following {{% resource_link "7fee1d25-6b41-41ad-8239-76a2c391e5b8" "Web site" %}}. FreeBSD is the UNIX® variant running on the 6.824 machines.)  
       
      
 *   **UNIX® network programming**: W. Richard Stevens' books "UNIX® Network Programming'" Volume 1 and 2 are classic references for network programming. If you are struggling with the sockets interface it could be a helpful purchase. See the useful book list in the syllabus for other helpful references.  
       
      
-*   **Core files**: When/if your program crashes it will leave a core file behind (named something.core). Examining core files with gdb is a valuable way to learn what went wrong. To get started with gdb type: "gdb program program.core" and then type the gdb command "bt". GDB will return a trace showing exactly where the program crashed. GDB offers many more features. Check out [the GDB manual](http://www.gnu.org/software/gdb/documentation/) for full documentation.
+*   **Core files**: When/if your program crashes it will leave a core file behind (named something.core). Examining core files with gdb is a valuable way to learn what went wrong. To get started with gdb type: "gdb program program.core" and then type the gdb command "bt". GDB will return a trace showing exactly where the program crashed. GDB offers many more features. Check out {{% resource_link "52250564-2562-4dc0-a07b-3e62b9f66a3b" "the GDB manual" %}} for full documentation.

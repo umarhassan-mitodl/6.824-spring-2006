@@ -4,8 +4,6 @@ description: Lecture handout with example code.
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/e0f9f9811f7a5ad82507fba6ac8901fe_webclient_libasync.c
 file_size: 1797
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

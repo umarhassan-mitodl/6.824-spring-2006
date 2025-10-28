@@ -4,8 +4,6 @@ description: Lecture handout with example code.
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/1c12e09c60e6c631b0898d11bf94edc2_syscall.c
 file_size: 712
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

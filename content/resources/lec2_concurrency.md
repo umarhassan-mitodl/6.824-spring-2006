@@ -4,8 +4,6 @@ description: Lecture notes about I/O Concurrency.
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/218dc61c38c02d26cb8dcb9193268a4c_lec2_concurrency.pdf
 file_size: 23496
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

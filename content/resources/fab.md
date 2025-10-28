@@ -6,8 +6,6 @@ description: 'Discussion notes. Saito, Yasushi, et al. "FAB: Building Distribute
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/b37259df4383429ff1c5bf13efff528d_fab.pdf
 file_size: 78556
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

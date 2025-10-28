@@ -4,8 +4,6 @@ description: Lecture handout with example code.
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/d1268fc06f935b12c6c37fcbd9117003_webclient.c
 file_size: 1337
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

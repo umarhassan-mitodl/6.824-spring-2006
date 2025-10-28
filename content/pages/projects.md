@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information about the final project for the course,
   including introduction, grades, suggestions for projects, and what to hand in.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -71,7 +69,7 @@ Doing a good project is a daunting task. The most successful projects tend to be
 
 Feel free to base your implementation on the code that we supply you for the labs, or on your lab solutions.
 
-You could look for inspiration about hot topics in the on-line proceedings of recent [SOSP](http://www.cs.rochester.edu/meetings/sosp2003/), [OSDI](http://www.usenix.org/events/osdi04/), [Usenix](http://www.usenix.org/events/usenix04/), and [NSDI](http://www.usenix.org/events/nsdi04/) conferences. You might also want to look at 6.824 projects from previous years. ({{% resource_link 2d17c206-9a82-c00f-08fa-dde727802bec "PDF" %}})
+You could look for inspiration about hot topics in the on-line proceedings of recent {{% resource_link "e0b969fe-6383-4305-a178-563f73582342" "SOSP" %}}, {{% resource_link "596242bc-6e0a-4b9f-85ac-bf9fa7e13308" "OSDI" %}}, {{% resource_link "f92888bd-806a-4a71-b908-a304bb270fe7" "Usenix" %}}, and {{% resource_link "3fdc41eb-909b-44b1-9d40-568ec09028f9" "NSDI" %}} conferences. You might also want to look at 6.824 projects from previous years. ({{% resource_link 2d17c206-9a82-c00f-08fa-dde727802bec "PDF" %}})
 
 If you're having trouble thinking of a project idea, some of the topics below might help get you started.
 
@@ -80,13 +78,13 @@ If you're having trouble thinking of a project idea, some of the topics below mi
 *   Rumor has it that BitTorrent has a hard time keeping its directory server working, because parties who find BitTorrent offensive cause the directories to be shut down. Build a more survivable BitTorrent directory.
 *   Build a distributed game for large number of users.
 *   Build a scalable Gnutella.
-*   Perhaps all computers will soon have built-in secure computing hardware such as [XOM](http://www.xom.nu/)™. Such hardware can certainly be used to restrict what computers can do, for example by enforcing copy protection. It's also possible that secure execution hardware could be used to make computers more useful; for example, it might allow secure execution of Java™ applets or Web browser plug-ins or SETI@Home software, or store your passwords or RSA private keys or credit card numbers securely, or help players of multi-user network games convince each other they are not cheating, or let you walk up to anyone's computer and use it (and trust it) as if it were your own. Design an application in this space and implement it as realistically as you can. Depending on your ambition you may have to simulate the required hardware and operating system support.
+*   Perhaps all computers will soon have built-in secure computing hardware such as {{% resource_link "b4624833-8d8c-4c85-8e54-177d0d73dbda" "XOM" %}}™. Such hardware can certainly be used to restrict what computers can do, for example by enforcing copy protection. It's also possible that secure execution hardware could be used to make computers more useful; for example, it might allow secure execution of Java™ applets or Web browser plug-ins or SETI@Home software, or store your passwords or RSA private keys or credit card numbers securely, or help players of multi-user network games convince each other they are not cheating, or let you walk up to anyone's computer and use it (and trust it) as if it were your own. Design an application in this space and implement it as realistically as you can. Depending on your ambition you may have to simulate the required hardware and operating system support.
 *   ISPs and users alike benefit if all of a network's links are driven at high utilization -- that is, if network capacity doesn't lie idle. Right now high total utilization is achieved with a combination of TCP's congestion control and ISP traffic engineering (re-routing flows from overloaded links to idle links). Another approach might be to spread out the data people want to fetch over many servers, so that each file fetch requests small parts of the file from many different servers; this might spread the total network load, decrease the variation in load among links, and thus allow higher total utilization. Your task is to design and implement such a system and evaluate whether it does any good.
 *   Build a mechanism to automatically detect and prevent network break-ins or other unwanted traffic such as distributed denial of service attacks. It might help to correlate network traffic observed at many different points.
-*   Build a service on top of the [PlanetLab](http://www.planet-lab.org/) research test-bed.
+*   Build a service on top of the {{% resource_link "ca4c1542-007f-485c-97db-9f261e709bf5" "PlanetLab" %}} research test-bed.
 *   Make a distributed shared memory (DSM) system, so that processes running on different machines can share an address space. You would need a plan to allow caching but maintain consistency. You would also want to find at least one program that could take good advantage of DSM, to help you evaluate your system.
 *   Design and implement a disk scheduler that enforces priority. The point would be to give high priority to disk reads that interactive processes are waiting for. Lower priority would be given to reads by non-interactive programs, background page-outs, read-ahead, delayed writes, etc. This might make your Emacs and X Windows® faster at the expense of background compilation. You would need to demonstrate that the scheduler actually improved some aspect of system performance. The danger is that there is probably a tradeoff between enforcing priority and scheduling the disk efficiently.
-*   Build a service that maintains consistent replicated data. You could build a general-purpose service (like DDS) or an application that replicates in a way tailored to that application's needs (like the Porcupine mailbox service ([PS](http://www.cs.washington.edu/homes/bershad/Papers/sosp.ps)).)
+*   Build a service that maintains consistent replicated data. You could build a general-purpose service (like DDS) or an application that replicates in a way tailored to that application's needs (like the Porcupine mailbox service ({{% resource_link "36868b54-d04e-437e-ac51-edb0c7554235" "PS" %}}).)
 *   Build a file synchronizer.
 *   Implement a system like Network Objects in C++.
 *   Design and build a proxy that provides a file-system interface to something other than files on the server's disk. For example, build a front end to a database. This would be a useful tool for making MIT server resources such as Hesiod and Moira accessible with a file-system interface. The challenge is figure out how to provide a sensible interface to objects that don't act like standard UNIX® files.

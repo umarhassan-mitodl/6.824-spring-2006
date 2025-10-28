@@ -6,8 +6,6 @@ description: 'Discussion notes. Mann, Timothy, et al. "A Coherent Distributed Fi
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/b807cd75edae6e25300a55f1ab462431_echo.pdf
 file_size: 63113
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

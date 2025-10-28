@@ -4,8 +4,6 @@ description: Midterm exam solutions from Spring 2005.
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/d931a3040d61a1173190b1ac59921b46_quiz2_05_ans.pdf
 file_size: 74226
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

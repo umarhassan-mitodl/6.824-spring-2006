@@ -5,8 +5,6 @@ description: 'Supporting files Lab 1: Lock Server. The ZIP file contains: 5 .c f
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/87a3ee7eb7ad73adcfe749e3b5f749dd_lab1.zip
 file_size: 8327
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

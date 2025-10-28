@@ -4,8 +4,6 @@ description: 'Discussion notes on Appendix 4-B: Case study of the network file s
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/ae72f96049027186c38552927a51119f_nfs85.pdf
 file_size: 73500
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
